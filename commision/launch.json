@@ -1,0 +1,12 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Launch Edge",
+            "request": "launch",
+            "type": "msedge",
+            "url": "file:///C:/Users/17473/Downloads/VScode-projects/HTML-coding-projects/commision/index.html",
+            "webRoot": "${workspaceFolder}"
+        }
+    ]
+}

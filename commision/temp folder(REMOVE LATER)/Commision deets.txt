@@ -1,0 +1,7 @@
+"Basic online shopping layout similar to shein but with separate tabs for designs, text, 
+and a “custom” tab in the custom tab it would be a notepad layout so people can make their own symbols" - skully
+
+Maybe have a nav bar at the top? 
+________________
+Home|Design|Help
+________________
