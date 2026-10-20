@@ -1,7 +1,7 @@
 .center{
     text-align: center;
 }
-body{
+.mainbody{
     background-image: url('images/bg.jpg');
     background-repeat: no-repeat;
     background-size: cover;
@@ -12,16 +12,50 @@ h1{
     color:tan;
     text-align: center;
 }
-ul{
+ul, li{
     list-style-type: none;
     margin: 0;
     padding: 0;
-    overflow: auto;
-}
-.contacttable{
-    border: 1px solid black;
-    border-collapse: collapse;
 }
 .th1{
     text-align: left;
+}
+table, th, td{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+.body{
+    background-color: tan;
+}
+.topright{
+    position: absolute;
+    top: 8px;
+    right: 16px;
+    font-size: 18px;
+}
+nav{
+    display: flex;
+    background-color: black;
+    overflow: hidden;
+}
+.homenav{
+    display: flex;
+    position: sticky;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    gap: 10px;   
+    border: 2px solid black;
+}
+.homenav a{
+    display: block;
+    color: white;
+    text-decoration: none;
+    padding: 14px 16px;
+}
+.homenav a:hover{
+    background-color: lightslategray;
+}
+.homenav ul li{
+    float: left;
 }

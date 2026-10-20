@@ -1,0 +1,5 @@
+1. Make a login page
+2. make a page to upload custom designs
+3. have somewhere for data(logins, user provided information, ect.) to be stored
+4. input iframes so the tabs display in the same same page
+5. polish design
